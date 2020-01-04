@@ -1,9 +1,0 @@
-export type Environments = {
-  ami: string
-  keyName: string
-}
-  
-export const environments: Environments = {
-  ami: 'your-ami-id',
-  keyName: 'your-key-name',
-}

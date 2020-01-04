@@ -1,0 +1,4 @@
+{
+    "ami": "your-favorite-ami-id",
+    "keyName": "your-key-name"
+}
